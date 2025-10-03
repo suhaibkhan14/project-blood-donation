@@ -24,7 +24,6 @@ Code editor (e.g., VSCode, Sublime Text)
 
 Installation
 Clone the repository:
-
 bash
 Copy
 Edit
